@@ -6,7 +6,7 @@ camera-based AI classifier, an inductive proximity sensor for instant metal
 detection, and a moisture-sensor fallback for when the AI pipeline is
 unavailable.
 
-![Wiring diagram](docs/wiring_diagram.png)
+
 
 ---
 
