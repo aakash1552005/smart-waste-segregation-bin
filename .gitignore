@@ -1,0 +1,20 @@
+# Model artifacts (large — see model/README.md for hosting notes)
+# Comment out the line below if you decide to commit the .h5 directly
+# server/waste_classifier.h5
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Server runtime output
+server/last_capture.jpg
+
+# Arduino IDE
+*.hex
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
